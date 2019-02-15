@@ -13,7 +13,7 @@ The default port of 8080 can be overriden using the `PORT` environment variable.
 
 It is available on DockerHub as:
 
-- [paulbouwer/hello-kubernetes:1.5](https://hub.docker.com/r/paulbouwer/hello-kubernetes/)
+-https://hub.docker.com/r/manzil007/kubetest
 
 ## Deploy
 
